@@ -1,5 +1,5 @@
 import './App.css';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createBrowserRouter, createHashRouter } from 'react-router-dom';
 import Portfolio from './Components/Portfolio/Portfolio';
 import Layout from './Components/Layout/Layout';
 import Home from './Components/Home/Home';
@@ -7,7 +7,7 @@ import About from './Components/About/About';
 import Skills from './Components/Skills/Skills';
 import Contact from './Components/Contact/Contact';
 function App() {
-  const router=createBrowserRouter([
+  const router=createHashRouter([
     {path:'/', element:<Layout/>,children:[
       {path:'/' , element:<Home/>},
       {path:'about' , element:<About/>},
