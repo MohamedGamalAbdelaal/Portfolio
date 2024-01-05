@@ -34,7 +34,7 @@ export default function Portfolio() {
           <h3>E-Commerce</h3>
           <h6>Front-end</h6>
           <p className='p-app'>ecommerce app allows users to shop online, browse product catalogs, create wish lists, add items to a cart, and complete purchases. It also provides payment processing, shipping, and order management capabilities.</p>
-        <button className='btn2'>View</button>
+        <Link to={"https://l.facebook.com/l.php?u=https%3A%2F%2Fmohamedgamalabdelaal.github.io%2FGemy-Shop%2F%3Ffbclid%3DIwAR0G4objdlx94a1KzXjQtw1mpudTZiowt00NlVGWj9vSk40pxDOOLdkC20M&h=AT1SxQHWVJFv3VGDGvXiwIGoaSKgHkKFbhswKznldzoK3MEhf0mxDSoehhzGGAwiXo3aZSMbNsa8OlVd8Sdh-dl5_N8cj6DbMdsJnDbVapPHYvH1Ha8G_plSuAxlEgcXev_b1g"}><button className='btn2'>View</button></Link>
         </div>
         </div>
         </div>
@@ -51,7 +51,7 @@ export default function Portfolio() {
           <h3>Image Generator</h3>
           <h6>Front-end</h6>
           <p className='p-app'>These image generator tools will get you the best AI-generated images using text-to-image .</p>
-        <button className='btn2'>View</button>
+        <Link to={"/"}><button className='btn2'>View</button></Link>
         </div>
         </div>
         </div>
@@ -99,10 +99,10 @@ export default function Portfolio() {
           </div>
         </div>
         <div className="col-md-6">
-          <h3>E-Commerce</h3>
-          <h6>Front-end</h6>
-          <p className='p-app'>ecommerce app allows users to shop online, browse product catalogs, create wish lists, add items to a cart, and complete purchases. It also provides payment processing, shipping, and order management capabilities.</p>
-        <button className='btn2'>View</button>
+          <h3>Book Marker</h3>
+          <h6>CRUD System</h6>
+          <p className='p-app'>Have built CRUDS System and Learned how to create (Create, Read, Update, Delete, and Search) on the CRUDS application with plain JavaScript. We are not going to use any JavaScript frameworks instead we use plain JavaScript, CSS, and HTML to build a CRUD application.</p>
+        <Link to={"https://mohamedgamalabdelaal.github.io/Book-Marker/"}><button className='btn2'>View</button></Link>
         </div>
         </div>
         </div>
