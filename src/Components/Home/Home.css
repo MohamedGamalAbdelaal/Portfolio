@@ -1,0 +1,126 @@
+.home{
+    max-width: 950px;
+    height: 100vh;
+    position: relative;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10rem 2rem;
+}
+.home-img{
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+.home-img{
+    border-radius:52% 49% 50% 50% / 31% 27% 70% 68%  ;
+    background-color: var(--first-color);
+    height: 250px;
+    width: 321px;
+    position: relative;
+    overflow: hidden;
+}
+.home-img:hover{
+    transform: translateY(20px);
+    transition: 1s;
+    
+}
+.home-img:hover img{
+    transform: translateX(20px);
+    transition: 1s;
+    
+}
+.home-img img{
+    width: 120%;
+    height: 120%;
+    position: absolute;
+    top: 80px;
+    left: -50px;
+}
+.home .home-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.social-icons{
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+}
+.s-icons{
+    color: var(--first-color);
+    font-size: 1.5em;
+    margin: 10px 0 !important;
+}
+.s-icons:hover{
+    color: var(--first-color-alt);
+}
+.home-container .info h2{
+    font-size: var(--big-font-size);
+    font-weight: 600;
+    line-height: 60px;
+}
+.home-container .info h3{
+    color: var(--title-color);
+    font-size: var(--h3-font-size);
+    font-weight: 600;
+    line-height: 50px;
+    font-feature-settings: 1.3em;
+}
+.home-container .info p{
+    color: var(--text-color);
+    font-size: var(--normal-font-size);
+    max-width: 550px;
+}
+.btn{
+    background: var(--first-color) !important;
+    color: #fff !important;
+    font-size: var(--normal-font-size);
+    font-weight: 500;
+    display: inline-block;
+    margin-top: 25px;
+    padding: 10px 20px !important;
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+.btn:hover{
+    background:var(--first-color-alt) !important;
+    color: #fff
+}
+.home .scroll-down{
+    color: var(--first-color);
+    text-decoration: none;
+    margin-top: 100px;
+}
+.home .scroll-down i{
+    color: var(--first-color-second);
+    margin-left: 5px;
+    animation: arrow-down ease 1s infinite;
+}
+@keyframes arrow-down{
+    0%{transform: translateY(0);}
+    30%{transform: translateY(8px);}
+}
+@media screen and (max-width:600px) {
+    .home{
+        margin-top: 200px;
+        height: 100vh;
+    }
+    .home-container{
+       flex-direction: column;
+    }
+    .home-img{
+        width: 200px;
+        height:200px;
+        margin-top: 20px;
+    }
+    .scroll-down{
+        display: none;
+    }
+}

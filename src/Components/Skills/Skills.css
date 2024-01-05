@@ -1,0 +1,13 @@
+.skill-item{
+    display: grid;
+    grid-template-columns: repeat(2,1);
+}
+.progress-bar{
+    background-color: var(--first-color)!important;
+    height: 11px;
+    font-size: 10px;
+}
+.progress{
+    height: 11px !important;
+
+}

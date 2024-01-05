@@ -1,0 +1,75 @@
+.contact-section{
+    background-color: var(--color-white);
+}
+.contact-container {
+    margin-top: 10px;
+    background: var(--color-white);
+    padding: 10px 30px 0px 60px !important;
+    width: 900px !important;
+    max-width: 900px !important;
+    height: 485px;
+    position: relative;
+    z-index: 1000;  
+    border-radius: 20px;
+}
+.form-contact{
+    display: flex;
+
+}
+.right-form{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    margin-left: 50px;    
+}
+.text{
+font-size: 35px;
+font-weight: 500;
+text-align: center;
+color: var(--first-color);
+}
+.text2{
+    font-size: 20px;
+font-weight: 400;
+text-align: center;
+margin: 10px 0px;
+color: var(--color-dark);
+}
+
+input{
+margin-bottom: 20px !important;
+padding: 5px 7px;
+width: 170%;
+background-color: var(--input-color);
+border: none;
+border-radius: 10px;
+}
+textarea{
+margin-bottom: 20px;
+background-color: var(--input-color);
+padding: 10px 7px;
+border: none;
+border-radius: 10px;
+}
+.call-me span{
+    color: var(--first-color);  
+    font-size: 25px; 
+}
+.call-me h4{
+    margin: 0;
+    font-size: 1rem;
+}
+.call-me a{
+    color: var(--light-color);
+    font-size: 10px ;
+    text-decoration: none;
+     
+}
+.btn2{
+    background-color: var(--first-color);
+    padding: 5px 20px;
+    margin-top: 10px !important;
+    border: none;
+    border-radius: 10px;
+    color: var(--color-white);
+
+    }

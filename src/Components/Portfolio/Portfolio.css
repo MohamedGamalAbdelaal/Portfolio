@@ -1,0 +1,27 @@
+.swiper-container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px !important;
+
+}
+.swiper{
+    width: 850px;
+}
+.swiper-button-next .swiper-button-prev{
+    font-size: 5px !important;
+    height: 0px;
+}
+.left-img{
+width: 100%;
+}
+.left-img img{
+    width: 100%;    
+}
+.p-app{
+    color: var(--text-color);
+}
+.swiper h3{
+    margin-bottom: 30px;
+}
