@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Book-Marker/static/css/main.13442424.css",
-    "main.js": "/Book-Marker/static/js/main.ff844945.js",
+    "main.js": "/Book-Marker/static/js/main.e2eb4dbb.js",
     "static/js/787.7da95b79.chunk.js": "/Book-Marker/static/js/787.7da95b79.chunk.js",
     "static/media/CV.pdf": "/Book-Marker/static/media/CV.b84e889526cf21402d3b.pdf",
     "static/media/youtube.PNG": "/Book-Marker/static/media/youtube.061d92a18cf551e66727.PNG",
@@ -19,11 +19,11 @@
     "static/media/fa-v4compatibility.woff2": "/Book-Marker/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/Book-Marker/index.html",
     "main.13442424.css.map": "/Book-Marker/static/css/main.13442424.css.map",
-    "main.ff844945.js.map": "/Book-Marker/static/js/main.ff844945.js.map",
+    "main.e2eb4dbb.js.map": "/Book-Marker/static/js/main.e2eb4dbb.js.map",
     "787.7da95b79.chunk.js.map": "/Book-Marker/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13442424.css",
-    "static/js/main.ff844945.js"
+    "static/js/main.e2eb4dbb.js"
   ]
 }
