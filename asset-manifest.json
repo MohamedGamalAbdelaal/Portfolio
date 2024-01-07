@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Book-Marker/static/css/main.13442424.css",
-    "main.js": "/Book-Marker/static/js/main.e2eb4dbb.js",
+    "main.js": "/Book-Marker/static/js/main.9747d962.js",
     "static/js/787.7da95b79.chunk.js": "/Book-Marker/static/js/787.7da95b79.chunk.js",
     "static/media/CV.pdf": "/Book-Marker/static/media/CV.b84e889526cf21402d3b.pdf",
     "static/media/youtube.PNG": "/Book-Marker/static/media/youtube.061d92a18cf551e66727.PNG",
@@ -13,17 +13,18 @@
     "static/media/neyat.PNG": "/Book-Marker/static/media/neyat.f3eedea74e7dd885124b.PNG",
     "static/media/fa-brands-400.woff2": "/Book-Marker/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
     "static/media/fa-regular-400.ttf": "/Book-Marker/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/crud.PNG": "/Book-Marker/static/media/crud.40d25d729387652b852e.PNG",
     "static/media/Ecommerce.jpg": "/Book-Marker/static/media/Ecommerce.271592d663a307bcd846.jpg",
     "static/media/fa-regular-400.woff2": "/Book-Marker/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
     "static/media/fa-v4compatibility.ttf": "/Book-Marker/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/Book-Marker/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/Book-Marker/index.html",
     "main.13442424.css.map": "/Book-Marker/static/css/main.13442424.css.map",
-    "main.e2eb4dbb.js.map": "/Book-Marker/static/js/main.e2eb4dbb.js.map",
+    "main.9747d962.js.map": "/Book-Marker/static/js/main.9747d962.js.map",
     "787.7da95b79.chunk.js.map": "/Book-Marker/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13442424.css",
-    "static/js/main.e2eb4dbb.js"
+    "static/js/main.9747d962.js"
   ]
 }
