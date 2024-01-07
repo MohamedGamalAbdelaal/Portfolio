@@ -102,7 +102,7 @@ export default function Portfolio() {
         <div className="col-md-6">
           <h3>Book Marker</h3>
           <h6>CRUD System</h6>
-          <p className='p-app'>Have built CRUDS System and Learned how to create (Create, Read, Update, Delete, and Search) on the CRUDS application with plain JavaScript. We are not going to use any JavaScript frameworks instead we use plain JavaScript, CSS, and HTML to build a CRUD application.</p>
+          <p className='p-app'>Have built CRUDS System and Learned how to create (Create, Read, Update, Delete, and Search) on the CRUDS application .</p>
         <Link to={"https://mohamedgamalabdelaal.github.io/Book-Marker/"}><button className='btn2'>View</button></Link>
         </div>
         </div>
