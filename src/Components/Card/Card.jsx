@@ -6,3 +6,6 @@ export default function Card({classname,children}) {
     </article>
   )
 }
+
+
+         

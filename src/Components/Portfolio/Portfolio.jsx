@@ -8,6 +8,7 @@ import './Portfolio.css'
 import Image from '../../assets/Ecommerce.jpg'
 import Image2 from '../../assets/neyat.PNG'
 import Image3 from '../../assets/youtube.PNG'
+import Image4 from '../../assets/crud.PNG'
 import { Link } from 'react-router-dom';
 export default function Portfolio() {
   return <>
@@ -31,10 +32,10 @@ export default function Portfolio() {
           </div>
         </div>
         <div className="col-md-6">
-          <h3>E-Commerce</h3>
+          <h3>E-Commerce </h3>
           <h6>Front-end</h6>
           <p className='p-app'>ecommerce app allows users to shop online, browse product catalogs, create wish lists, add items to a cart, and complete purchases. It also provides payment processing, shipping, and order management capabilities.</p>
-        <Link to={"https://l.facebook.com/l.php?u=https%3A%2F%2Fmohamedgamalabdelaal.github.io%2FGemy-Shop%2F%3Ffbclid%3DIwAR0G4objdlx94a1KzXjQtw1mpudTZiowt00NlVGWj9vSk40pxDOOLdkC20M&h=AT1SxQHWVJFv3VGDGvXiwIGoaSKgHkKFbhswKznldzoK3MEhf0mxDSoehhzGGAwiXo3aZSMbNsa8OlVd8Sdh-dl5_N8cj6DbMdsJnDbVapPHYvH1Ha8G_plSuAxlEgcXev_b1g"}><button className='btn2'>View</button></Link>
+        <Link to={"https://mohamedgamalabdelaal.github.io/Gemy-Shop/"}><button className='btn2'>View</button></Link>
         </div>
         </div>
         </div>
@@ -95,7 +96,7 @@ export default function Portfolio() {
         <div className="row">
         <div className="col-md-6">
           <div className="left-img">
-            <img src={Image} alt="" />
+            <img src={Image4} alt="" />
           </div>
         </div>
         <div className="col-md-6">

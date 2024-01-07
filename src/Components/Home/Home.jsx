@@ -12,16 +12,16 @@ export default function Home() {
   <section className='home flex-center'>
        <div className="container home-container">
         <div className="social-icons">
-            <Link className='s-icons' to={'/'}> <i class="fab fa-facebook" ></i></Link>
-            <Link className='s-icons' to={'/'}> <i class="fab fa-github" ></i></Link>
-            <Link className='s-icons' to={'/'}> <i class="fab fa-linkedin" ></i></Link>
+            <Link className='s-icons' to={'https://www.facebook.com/profile.php?id=100009070500008'}> <i class="fab fa-facebook" ></i></Link>
+            <Link className='s-icons' to={'https://github.com/MohamedGamalAbdelaal'}> <i class="fab fa-github" ></i></Link>
+            <Link className='s-icons' to={'https://www.linkedin.com/in/mohamed-gamal-1a99a9207/'}> <i class="fab fa-linkedin" ></i></Link>
         </div>
         <div className="info">
             <h2> Hi I`m Mohammed</h2>
             <h3>Front-end Developer</h3>
             <p>Having an experience in web design, Building quality websites and applications with HTML, CSS,JavaScript and React.
             </p>
-            <Link className='btn' to={'/'} >Contact Me <i class="fa-solid fa-location-arrow"></i></Link>
+            <Link className='btn' to={'/contact'} >Contact Me <i class="fa-solid fa-location-arrow"></i></Link>
             </div>
             <div className="home-img">
                 <img  src={Image_Home} alt="" />

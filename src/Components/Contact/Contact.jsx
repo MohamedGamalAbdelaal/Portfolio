@@ -18,7 +18,7 @@ export default function Contact() {
               <div className="email-icon">
               <span><i class="fa fa-envelope"></i></span>
                 <h4> Email Me</h4>
-              <a href={'#'} >Mohamed.Gamal227422@gmail.com</a>
+              <a href={'https://www.mohamed.gamal227422@gmail.com'} >Mohamed.Gamal227422@gmail.com</a>
               </div>
               <div className="Location-icon">
               <span><i class="fa fa-map-marker-alt"></i></span>
