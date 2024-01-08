@@ -35,7 +35,7 @@ export default function Portfolio() {
           <h3>E-Commerce </h3>
           <h6>Front-end</h6>
           <p className='p-app'>ecommerce app allows users to shop online, browse product catalogs, create wish lists, add items to a cart, and complete purchases. It also provides payment processing, shipping, and order management capabilities.</p>
-        <Link to={"https://mohamedgamalabdelaal.github.io/Gemy-Shop/"}><button className='btn2'>View</button></Link>
+        <Link to={"https://mohamedgamalabdelaal.github.io/Gemy-Shop/"} target='_blank'><button className='btn2'>View</button></Link>
         </div>
         </div>
         </div>
@@ -103,7 +103,7 @@ export default function Portfolio() {
           <h3>Book Marker</h3>
           <h6>CRUD System</h6>
           <p className='p-app'>Have built CRUDS System and Learned how to create (Create, Read, Update, Delete, and Search) on the CRUDS application .</p>
-        <Link to={"https://mohamedgamalabdelaal.github.io/Book-Marker/"}><button className='btn2'>View</button></Link>
+        <Link to={"https://mohamedgamalabdelaal.github.io/Book-Marker/"} target='_blank'><button className='btn2'>View</button></Link>
         </div>
         </div>
         </div>
